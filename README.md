@@ -11,6 +11,9 @@
     Passionate about transforming data into insights and ideas into code. <br /> 
     Exploring the intersection of Machine Learning, Data Science, and modern Web Development.
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Whyawww.profile_views" alt="Profile Views" />
+  </p>
 </div>
 
 ---
@@ -51,3 +54,4 @@
   <a href="https://medium.com/@Whyawww" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://instagram.com/jiwhyn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
