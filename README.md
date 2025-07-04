@@ -12,7 +12,7 @@
     Exploring the intersection of Machine Learning, Data Science, and modern Web Development.
   </p>
   <p>
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Whyawww.profile_views" alt="Profile Views" />
+    <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DWhyawww%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dflat-square" alt="profile-views" />
   </p>
 </div>
 
@@ -31,9 +31,9 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,tailwind,sql,git,github,vscode,figma,canva,jupyter" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,javascript,typescript,react,nextjs,tailwind,sql,git,github,vscode,figma,canva,jupyter" />
+    </a>
 </p>
 
 ---
@@ -41,8 +41,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whyawww&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wahyu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyawww&layout=compact&theme=dracula" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DWhyawww%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Wahyu's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DWhyawww%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages" />
 </p>
 
 ---
@@ -50,8 +50,8 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/wahyu-aji-nusantara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@Whyawww" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://instagram.com/jiwhyn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/wahyu-aji-nusantara" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
+<a href="https://medium.com/@Whyawww" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" alt="Medium"/></a>
+<a href="https://www.google.com/search?q=https://instagram.com/jiwhyn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
