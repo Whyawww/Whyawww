@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://wahyuaji.cloud" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG54eXNqY3V1Z2ZtdmN5N2x0bTR3cWJ2dTY1dG9wZ3M3ZzFjOWE3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SU2R2I2TzG9y11m4pZ/giphy.gif" width="150" />
+  </a>
+  
+  # **Wahyu Aji Nusantara**
+  
+  ### Informatics Student | Data & Web Enthusiast
+  
+  <p>
+    Passionate about transforming data into insights and ideas into code. <br /> 
+    Exploring the intersection of Machine Learning, Data Science, and modern Web Development.
+  </p>
+</div>
 
-<!--
-**Whyawww/Whyawww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🎓 I'm an **Informatics Student** at Universitas AMIKOM Yogyakarta.
+-   💡 My core interests lie in **Data Science**, **Machine Learning**, and building intuitive **Web Applications**.
+-   🌱 I'm currently focused on deepening my skills in full-stack development and predictive analysis.
+-   📫 You can reach me at: **wahji5723@gmail.com**
+-   📄 Feel free to check out my [**Resume**](https://wahyuaji.cloud/CV-WahyuAjiNusantara.pdf) for more details.
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,tailwind,sql,git,github,vscode,figma,canva,jupyter" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Whyawww&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wahyu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyawww&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/wahyu-aji-nusantara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@Whyawww" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://instagram.com/jiwhyn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
