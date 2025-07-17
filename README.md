@@ -17,10 +17,9 @@
 ### 🚀 About Me
 
 -   🎓 I'm an **Informatics Student** at Universitas AMIKOM Yogyakarta.
--   💡 My core interests lie in **Data Science**, **Machine Learning**, and building intuitive **Web Applications**.
+-   💡 My core interests lie in **Machine Learning**, and building intuitive **Web Applications**.
 -   🌱 I'm currently focused on deepening my skills in full-stack development and predictive analysis.
 -   📫 You can reach me at: **wahji5723@gmail.com**
--   📄 Feel free to check out my [**Resume**](https://wahyuaji.cloud/CV-WahyuAjiNusantara.pdf) for more details.
 
 ---
 
