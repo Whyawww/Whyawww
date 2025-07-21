@@ -12,16 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Whyawww&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile-views" />
 </p>
 
----
-
-### 🚀 About Me
-
--   🎓 I'm an **Informatics Student** at Universitas AMIKOM Yogyakarta.
--   💡 My core interests lie in **Machine Learning**, and building intuitive **Web Applications**.
--   🌱 I'm currently focused on deepening my skills in full-stack development and predictive analysis.
--   📫 You can reach me at: **wahji5723@gmail.com**
-
----
 
 ### 🛠️ My Tech Stack
 
