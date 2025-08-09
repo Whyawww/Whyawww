@@ -14,20 +14,11 @@
 
 ---
 
-### 🚀 About Me
-
--   🎓 I'm an **Informatics Student** at Universitas AMIKOM Yogyakarta.
--   💡 My core interests lie in **Machine Learning**, and building intuitive **Web Applications**.
--   🌱 I'm currently focused on deepening my skills in full-stack development and predictive analysis.
--   📫 You can reach me at: **wahji5723@gmail.com**
-
----
-
 ### 🛠️ My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,tailwind,sql,git,github,vscode,figma,canva,jupyter" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vue,nuxt,tailwind,sql,git,github,vscode,figma,canva,jupyter" />
   </a>
 </p>
 
