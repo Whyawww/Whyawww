@@ -12,13 +12,17 @@
   <img src="https://komarev.com/ghpvc/?username=Whyawww&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile-views" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Humans%20will%20not%20achieve%20perfection%20except%20through%20knowledge&author=Ibnu%20Rushd" alt="Quote" />
+</p>
+
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,vue,nuxt,tailwind,sql,git,github,vscode,figma,canva,jupyter" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,css,react,nextjs,vue,nuxt,vite,tailwind,nodejs,mysql,sklearn,numpy,tensorflow,ubuntu,git,github,vscode,figma,canva,jupyter" />
   </a>
 </p>
 
