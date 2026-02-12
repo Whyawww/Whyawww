@@ -28,11 +28,12 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whyawww&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wahyu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyawww&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whyawww&theme=dracula&hide_border=true" alt="Wahyu's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Whyawww&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Wahyu's Stats" />
 </p>
 
 ---
@@ -44,12 +45,4 @@
   <a href="https://gitlab.com/Whyawww" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="https://medium.com/@Whyawww" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.instagram.com/jiw.codes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
----
-
-### 🏆 My GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Whyawww&theme=dracula" alt="Whyawww's Trophies" />
 </p>
