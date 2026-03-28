@@ -22,18 +22,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,css,react,nextjs,nuxt,vite,tailwind,nodejs,mysql,sklearn,tensorflow,ubuntu,git,github,vscode,figma,canva,jupyter" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,css,react,nextjs,nuxt,vite,tailwind,nodejs,mysql,mongodb,django,cs,sklearn,tensorflow,ubuntu,git,github,vscode,figma,canva,jupyter" />
   </a>
 </p>
-
 ---
 
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whyawww&theme=dracula&hide_border=true" alt="Wahyu's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Whyawww&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Wahyu's Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Whyawww&theme=algolia&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Whyawww&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Whyawww&layout=compact&langs_count=8&theme=algolia&hide_border=true&border_radius=10" />
 </p>
 
 ---
